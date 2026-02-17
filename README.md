@@ -14,6 +14,10 @@ This project demonstrates physically-based rendering techniques including multip
 - Random sampling per pixel
 
 #### HOW TO RUN
-cargo run
+Clone the repository
+
+##### Author
+Samiksha Giri
+
 
   
